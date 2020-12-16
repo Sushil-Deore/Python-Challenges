@@ -26,3 +26,4 @@ def a_weird_sum(n):
 
 print(a_weird_sum(n))
 
+print("Mississippi".rfind('s'))
