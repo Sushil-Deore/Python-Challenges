@@ -1,2 +1,2 @@
 # Python-Challenges
-Challenges on Python 3 
+Challenges on Python 3.
